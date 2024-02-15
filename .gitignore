@@ -1,0 +1,8 @@
+# Ignorar el directorio node_modules
+node_modules/
+
+# Ignorar los archivos .DS_Store generados en macOS
+.DS_Store
+
+# Ignorar el directorio .vscode
+.vscode/
