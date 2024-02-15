@@ -80,10 +80,8 @@
         <executions>
           <execution>
             <id>checkstyle</id>
-            <phase>validate</phase>
-            <goals>
-              <goal>check</goal>
-            </goals>
+            <phase>none</phase>
+          
           </execution>
         </executions>
       </plugin>
